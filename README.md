@@ -20,3 +20,4 @@ To automate the reporting process, the project leveraged FPDF to generate a well
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/2e403e64-dd47-4922-8e60-2ab905e136fb)
